@@ -1,0 +1,61 @@
+
+print("Start small. Ship something.")
+int=119
+regester=49
+print(f"my rollnumber is {int} and regestration number{regester}")
+int=50
+regester=49
+print(f"my rollnumber is {int} and regesterstion number is{regester}")
+name="asadullah"
+parofation="student"
+int=40
+regster=49
+print(f"my name is {name} i am a {parofation} my rollnumber is {int} and my regestration number is {regster}")
+freand="aslam"
+profation="student"
+int=36
+regester=50
+print(f"my freandname is {freand} he is {profation} his rill number is {int} his regestration number is {regester}. he is  my best freand.")
+2/8/2026
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+print("Start small. Ship something.")
+city="lahore" 
+print(f"i going to {city}")
+print(f"i work in {city}")
+name="sultan"
+parofation="wab dewalper"
+relagean="islam" 
+print("hello worrld")
+print(f"his name is {name} his a {parofation} and his relegean is {relagean}")
+i=923012345678
+print(f"his name is {name} his a {parofation} and his relegean is {relagean} his phone number is {i}")
+#3\8\2026
+print("hello world")
+int=1
+name="asad python cording"
+type="notpad"
+a="python"
+b="HTML"
+c="jawa script"
+d="c language"
+e="c++"
+print(f"i write some cording languages name {a},{b},{c},{d} and {e} etc for exampal i write a python file this name is {name} and document fil numbder {int} and write in {type}") 
+int=500
+name="saad HTML cord"
+type="vs cord"
+print(f"i write some cording languages name {a},{b},{c},{d} and {e} etc for exampal i write a python file this name is {name} and document fil numbder {int} and write in {type}") 
+
+#4\8\2026
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+print("my name is asadullah rafeeque") 
+print("today is very happy")#print this cord
+name="ali" #varyable 
+day="today sunday"#varyable
+date=34 #varyable
+row=1 #varyable
+int="genral"#varyable
+work="operator"#varyable
+print(f"i write a man data  he is a {work} his workar number is {int} he work {int} lane number {row}") # print many varyables in this line 
+print(f"this workar name is{name} date {date}\{day}")# print three varyables
