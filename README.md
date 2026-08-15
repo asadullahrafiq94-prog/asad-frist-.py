@@ -219,3 +219,21 @@ print(nums.index(73))
 nums={11,23,45,69,73,35,67,89}
 print(type(nums))
 print(len(nums))
+
+
+    
+def calc_gst (price):
+    new_price=price+price*0.18
+    print(new_price)
+#function
+print(calc_gst(1000))
+print(calc_gst(2026))
+
+
+
+
+def calc_gst (price):
+    new_price=price+price*933
+    print(new_price)
+
+print(calc_gst(3333))
